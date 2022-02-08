@@ -25,6 +25,11 @@ Group by individuals – then plotted  both Return on Investment Percentage (ROI
 Results show  there is little variability on average rating. The biggest measure of success is by ROI Percentage. 
 
 
+![](./Director.ROI.png)
+![](./Actor_ROI.png)
+![](./Actress_ROI.png)
+![](./Producer_ROI.png)
+
 
 ## Conclusions
 1) David Gordon Green is the highest ROI director, His success in movies vary from dark comedies movies like Pineapple Express and shows like "Eastbound and Down' to slasher films such as Halloween he has great variety under his belt. 
