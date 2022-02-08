@@ -25,7 +25,7 @@ Group by individuals – then plotted  both Return on Investment Percentage (ROI
 Results show  there is little variability on average rating. The biggest measure of success is by ROI Percentage. 
 
 
-![](./Director.ROI.png)
+![](./Director_ROI.png)
 ![](./Actor_ROI.png)
 ![](./Actress_ROI.png)
 ![](./Producer_ROI.png)
